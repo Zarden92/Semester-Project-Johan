@@ -479,9 +479,21 @@ footer {
   flex-direction: column;
   align-items: center;
 }
+
 .picture-about {
   width: 400px;
   height: 350px;
+}
+
+.about-div-1, .about-div-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+
+.picture-robotics {
+  display: none;
 }
 
 }
@@ -510,6 +522,11 @@ margin-top: 30px;
 @media (max-width: 600px) {
 .input-field {
   width: 300px
+}
+.container-news {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 }
 
