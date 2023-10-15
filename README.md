@@ -9,6 +9,8 @@ Purpose of the project is to create a webpage for a science museum
 * The webpage contains a Homepage, contact page, ticket page and about page.
 * Webpage will be used by children aswell as grons ups
 * Fonts from google font, picture and icons from project folder.
+* Experience bulding different Cards
+* Ticket system and contact form
 
 ## Built With
 - [HTML]
